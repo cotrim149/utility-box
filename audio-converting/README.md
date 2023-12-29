@@ -7,6 +7,6 @@
 
 # Use command to convert
 
-## .mov to .mp4
+## .mp4 to .mp3
 
-./video-to-mp4.sh mov-file.mov
+./audio-to-mp3 mp4-file.mp4
